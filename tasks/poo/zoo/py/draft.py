@@ -81,3 +81,4 @@ def main():
 
         else:
             print("fail: comando invalido")
+main()
